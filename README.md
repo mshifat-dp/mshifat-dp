@@ -4,4 +4,4 @@
 - 🤖 Learning & building with AI Agents
 - 🛠️ Creating digital products & agentic workflows
 - 📦 Check my products: https://mshifat.gumroad.com/
-- 🐦 Follow my journey: [x.com/MShifat](https://x.com/MShifat_)
+- 🐦 Follow my journey: [https://x.com/MShifat](https://x.com/MShifat_)
